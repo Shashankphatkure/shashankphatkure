@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 
-
 ### 🖥️ CMS and Platforms
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/-Render-009688?style=flat&logo=render&logoColor=white) 
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ### 🛠️ DevOps and Automation Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
@@ -65,4 +65,5 @@ Here are some ideas to get you started:
 ![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
 ![ACF](https://img.shields.io/badge/-ACF-028484?style=flat&logo=acf&logoColor=white)
 ![WP Rocket](https://img.shields.io/badge/-WP_Rocket-FF7F50?style=flat&logo=rocket&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
