@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![Pinecone](https://img.shields.io/badge/-Pinecone-228b22?style=flat&logo=pinecone&logoColor=white)
 
 ### 🖥️ CMS and Platforms
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
