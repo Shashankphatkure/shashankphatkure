@@ -42,10 +42,13 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/-Render-009688?style=flat&logo=render&logoColor=white) 
 
-### 🛠️ DevOps and Tools
+### 🛠️ DevOps and Automation Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-1A82E2?style=flat&logo=n8n&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-0075C6?style=flat&logo=uipath&logoColor=white)
 
 ### 🖥️ CMS and Platforms
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
@@ -61,4 +64,7 @@ Here are some ideas to get you started:
 ![REST API](https://img.shields.io/badge/-REST_API-0081CB?style=flat&logo=restapi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6347?style=flat&logo=chain&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
+![ACF](https://img.shields.io/badge/-ACF-028484?style=flat&logo=acf&logoColor=white)
+![WP Rocket](https://img.shields.io/badge/-WP_Rocket-FF7F50?style=flat&logo=rocket&logoColor=white)
 
