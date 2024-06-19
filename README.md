@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat&logo=flutter) 
 
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
@@ -53,6 +52,7 @@ Here are some ideas to get you started:
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) 
+![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat&logo=flutter) 
 
 ### 🧰 Other Technologies
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
