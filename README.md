@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat&logo=flutter) 
 
 ### 🤖 AI
-![Gemini](https://img.shields.io/badge/-Gemini-FF4500?style=flat&logo=gemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-FF4500?style=flat&logo=gemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6347?style=flat&logo=chain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-228b22?style=flat&logo=pinecone&logoColor=white)
