@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![Pinecone](https://img.shields.io/badge/-Pinecone-228b22?style=flat&logo=pinecone&logoColor=white)
 
 ### 🖥️ CMS and Platforms
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
@@ -60,11 +59,16 @@ Here are some ideas to get you started:
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) 
 ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat&logo=flutter) 
 
+### 🤖 AI
+![Gemini](https://img.shields.io/badge/-Gemini-FF4500?style=flat&logo=gemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-FF6347?style=flat&logo=chain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-228b22?style=flat&logo=pinecone&logoColor=white)
+
 ### 🧰 Other Technologies
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-0081CB?style=flat&logo=restapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-FF6347?style=flat&logo=chain&logoColor=white)
 ![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
 ![ACF](https://img.shields.io/badge/-ACF-028484?style=flat&logo=acf&logoColor=white)
 ![WP Rocket](https://img.shields.io/badge/-WP_Rocket-FF7F50?style=flat&logo=rocket&logoColor=white)
