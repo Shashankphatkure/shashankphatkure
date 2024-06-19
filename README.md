@@ -50,11 +50,6 @@ Here are some ideas to get you started:
 ![n8n](https://img.shields.io/badge/-n8n-1A82E2?style=flat&logo=n8n&logoColor=white)
 ![UiPath](https://img.shields.io/badge/-UiPath-0075C6?style=flat&logo=uipath&logoColor=white)
 
-### 🖥️ CMS and Platforms
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
-
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) 
