@@ -54,23 +54,9 @@ Here are some ideas to get you started:
 ![n8n](https://img.shields.io/badge/-n8n-1A82E2?style=flat&logo=n8n&logoColor=white)
 ![UiPath](https://img.shields.io/badge/-UiPath-0075C6?style=flat&logo=uipath&logoColor=white)
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) 
-![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat&logo=flutter) 
-
 ### 🤖 AI
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-FF4500?style=flat&logo=gemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6347?style=flat&logo=chain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-228b22?style=flat&logo=pinecone&logoColor=white)
-
-### 🧰 Other Technologies
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-0081CB?style=flat&logo=restapi&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
-![ACF](https://img.shields.io/badge/-ACF-028484?style=flat&logo=acf&logoColor=white)
-![WP Rocket](https://img.shields.io/badge/-WP_Rocket-FF7F50?style=flat&logo=rocket&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
