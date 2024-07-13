@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ My Tech Stack
-
 ### 🌐 Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
